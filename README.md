@@ -22,7 +22,9 @@ Verdugo: positive **net of real cost**, holding up **out-of-sample**, and
   **~2× the risk** (2:1). So out of 10 trades: ~6 wins worth 12, ~4 losses worth
   4 → clearly net positive. A 64% that most people would wrongly dismiss.
 - **TIERRA** — a "spring" strategy: it sells when price overstretches to the
-  upside. It wins the large majority of the time at roughly 1:1.
+  upside and springs back down. It wins about **81%** of the time at roughly
+  **1:1** (each win ≈ 1× the risk). So out of 10 trades: ~8 wins worth 8, ~2
+  losses worth 2 → clearly net positive. Fewer, cleaner setups than AGUA.
 
 *(The **how** — the exact rules, instruments, and timing — stays private. What's
 open here is the honest measuring tool, not the edge. And live trading is always
